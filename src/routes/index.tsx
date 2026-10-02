@@ -53,7 +53,7 @@ const NAV_LINKS = [
   { label: "Contact", href: "#contact" },
 ];
 
-const ROLES = ["Data Engineer", "Data Analyst", "AI Engineer", "Data Scientist"];
+const ROLES = ["Data Engineer", "Data Analyst"];
 
 const SKILLS = [
   { label: "Python (Pandas, NumPy, Scikit-learn, TensorFlow)", value: 90 },
