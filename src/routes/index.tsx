@@ -507,7 +507,7 @@ function About() {
               Software Engineering graduate from NUST who found a home in the data
               world. I design and build end-to-end data platforms on Azure:
               Medallion-architecture lakehouses, CDC pipelines, star schemas, and the
-              Power BI dashboards
+              Power BI dashboards that sit on top.
             </p>
             <p className="mt-4 leading-relaxed text-muted-foreground">
               Alongside engineering, I manage accounting and financial reporting for
