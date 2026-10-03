@@ -505,15 +505,15 @@ function About() {
             </div>
             <p className="mt-6 leading-relaxed text-muted-foreground">
               Software Engineering graduate from NUST who found a home in the data
-              world. I design and build end-to-end data platforms on Azure —
+              world. I design and build end-to-end data platforms on Azure:
               Medallion-architecture lakehouses, CDC pipelines, star schemas, and the
               Power BI dashboards that sit on top.
             </p>
             <p className="mt-4 leading-relaxed text-muted-foreground">
-              Alongside engineering, I've run financial operations for a 24-location
-              restaurant chain and delivered statistical analysis for international
-              research teams — so I care about the decision the data drives, not just
-              the pipeline that moves it.
+              Alongside engineering, I manage accounting and financial reporting for
+              a multi-location restaurant client and volunteered as a data analyst on
+              a research project for Women in Sport, so I care about the decision the
+              data drives, not just the pipeline that moves it.
             </p>
             <div className="mt-8 grid grid-cols-2 gap-4">
               {STATS.map((stat) => (
