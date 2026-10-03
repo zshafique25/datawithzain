@@ -395,9 +395,9 @@ function Hero() {
           {typed}
         </p>
         <p className="mt-6 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-          Data engineer and analyst who builds production-grade pipelines on Azure —
-          from ADF and Databricks lakehouses to Power BI dashboards — with a track
-          record of making data faster, cleaner, and decision-ready.
+          Data engineer and analyst who builds end-to-end pipelines on Azure — from
+          ADF and Databricks lakehouses to Power BI dashboards — with a focus on clean,
+          reliable, decision-ready data.
         </p>
         <div className="mt-8 flex flex-wrap items-center gap-4">
           <a
