@@ -681,7 +681,7 @@ function Projects() {
             rel="noreferrer"
             className="inline-flex items-center gap-2 text-sm font-semibold text-muted-foreground transition-colors hover:text-primary"
           >
-            <Github className="size-4" /> More on GitHub <ExternalLink className="size-3.5" />
+            <Github className="size-4" /> More Projects on GitHub <ExternalLink className="size-3.5" />
           </a>
         </Reveal>
       </div>
