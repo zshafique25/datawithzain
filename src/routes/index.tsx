@@ -67,9 +67,9 @@ const SKILLS = [
 ];
 
 const STATS = [
-  { value: "$15M+", label: "Revenue operations managed" },
-  { value: "40%", label: "Faster month-end closing" },
-  { value: "35%", label: "Faster data processing" },
+  { value: "3", label: "Medallion architecture projects" },
+  { value: "6", label: "Azure services used" },
+  { value: "~4.4K", label: "Survey respondents analyzed" },
   { value: "7", label: "Production ADF pipeline patterns" },
 ];
 
