@@ -75,13 +75,13 @@ const STATS = [
 
 const EXPERIENCE = [
   {
-    role: "Financial Operations Specialist",
-    company: "Popeyes Louisiana Kitchen",
+    role: "Freelance Financial Operations Specialist",
+    company: "US Restaurant Franchise Client",
     location: "Remote · USA",
     period: "01/2024 — Present",
     points: [
-      "Directed financial operations for 24 locations ($15M+ revenue) with 99.8% accuracy",
-      "Spearheaded process improvements reducing month-end closing time by 40% and operational inefficiencies by 25%",
+      "Manage accounting and financial reporting for 4 restaurant locations using QuickBooks, including bookkeeping, reconciliations, and insurance administration",
+      "Prepare monthly P&L and sales reports for ownership across all locations",
     ],
   },
   {
@@ -90,8 +90,8 @@ const EXPERIENCE = [
     location: "Remote · USA",
     period: "09/2025 — 04/2026",
     points: [
-      "Executed statistical analysis of historical survey data across a 7-team structure using Python (Pandas), R, SPSS, and BI dashboards",
-      "Identified core participation barriers via cross-tabulations and visualizations; authored and delivered an equity-focused final report to stakeholders",
+      "Analyzed survey data from ~4, 400 youth respondents using Python, and SPSS, using cross - tabulations and visualizations to identify participation barriers by gender and ethnicity",
+      "Co-authored a team report on safety, confidence, and health - related barriers(e.g., 45.7 % of Asian females did not feel safe exercising outdoors), included as an appendix to the final report delivered to Women in Sport",
     ],
   },
   {
@@ -100,7 +100,8 @@ const EXPERIENCE = [
     location: "Remote · Pakistan",
     period: "06/2025 — 08/2025",
     points: [
-      "Architected scalable backend systems (Flask/FastAPI) and led cross-functional teams deploying AI solutions for data-intensive applications",
+      "Built a Flask microservice using the Cohere API for text generation and summarization, with a modular LLM wrapper, deployed on Vercel",
+      "Built a Node.js/Express translation API supporting 20 languages, with a JavaScript front end, deployed on Vercel",
     ],
   },
   {
@@ -109,7 +110,7 @@ const EXPERIENCE = [
     location: "Remote · Pakistan",
     period: "06/2024 — 09/2024",
     points: [
-      "Optimized ETL/ELT workflows reducing data processing time by 35%, delivering multiple concurrent projects with 100% on-time completion using Agile/Scrum",
+      "Built ETL workflows for data preparation and implemented sentiment analysis and anomaly detection models in Python",
     ],
   },
 ];
